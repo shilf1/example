@@ -1,2 +1,5 @@
-# example
-example code
+
+
+
+# tensorboard test
+python3 tensorboard_example.py
